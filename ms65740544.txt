@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "blackfootballcamp.info",
+  "Id": "130ede7d-6c05-4bb2-847e-b995adbdeb71"
+}
